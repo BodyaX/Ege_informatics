@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Задание №4. Условие фано и кодирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "26f67476d094ed5e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b10a58db844b12ee",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Задание №4. Условие фано и кодирование"
             }
           }
         ]
@@ -99,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c5aa0b1f5cb70f5d",
@@ -206,6 +190,7 @@
   },
   "active": "1b3e215ebfb85b71",
   "lastOpenFiles": [
+    "Задание №4. Условие фано и кодирование.md",
     "Welcome.md"
   ]
 }
